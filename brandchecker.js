@@ -1,5 +1,7 @@
 
 
 
+let coolio = 'this is the reason why i love the Rolex GMT-Master II)'
 
-console.log(new Date());
+console.log(coolio.replace(/\s+/g, '-'));
+
